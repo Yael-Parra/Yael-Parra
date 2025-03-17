@@ -7,7 +7,7 @@ I'm a **Data Analyst** who loves turning numbers into stories. Currently, I'm de
 #### 💡 Fun Facts About Me  
 - I love solving real-world puzzles with data 🧠
 - Tech and innovation totally light me up!  🌐
-- Love learning new languages 
+- Love learning new languages 🧏
 - I’m curious and practical, always keeping my feet on the ground while turning ideas into real, meaningful insights. My love for learning about new perspectives keeps me sharp and adaptable! 🌍
 
 #### 📌 Get in Touch  
