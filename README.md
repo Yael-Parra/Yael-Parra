@@ -6,7 +6,8 @@ I'm a **Data Analyst** who loves turning numbers into stories. Currently, I'm de
 
 #### 💡 Fun Facts About Me  
 - I love solving real-world puzzles with data 🧠
-- Tech and innovation totally light me up!  🌐  
+- Tech and innovation totally light me up!  🌐
+- Love learning new languages 
 - I’m curious and practical, always keeping my feet on the ground while turning ideas into real, meaningful insights. My love for learning about new perspectives keeps me sharp and adaptable! 🌍
 
 #### 📌 Get in Touch  
@@ -29,3 +30,6 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-par
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 
 
+#### 🗣️ Languages I speak
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="Reino Unido" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" alt="Francia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="España" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png" alt="México" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="Alemania" width="30" height="20">
