@@ -6,9 +6,10 @@ I'm a **Data Analyst** who loves turning numbers into stories. Currently, I'm de
 
 #### 💡 Fun Facts About Me  
 - I love solving real-world puzzles with data 🧠
-- Tech and innovation totally light me up!  🌐
-- Love learning new languages 🧏
+- Data governance and making sense of complex data landscapes excite me! 🔍
+- I thrive on structure, strategy, and turning raw information into meaningful insights 📊
 - I’m curious and practical, always keeping my feet on the ground while turning ideas into real, meaningful insights. My love for learning about new perspectives keeps me sharp and adaptable! 🌍
+
 
 #### 📌 Get in Touch  
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-parra/) or check out some of my projects here on GitHub!  
