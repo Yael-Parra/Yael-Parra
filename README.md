@@ -19,6 +19,7 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-par
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-009688?logo=nodejs&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) &nbsp;&nbsp;
