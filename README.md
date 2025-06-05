@@ -77,7 +77,7 @@ But enough about me! This is how I might help you:
 </h2>
 
 <div align="center">
-<img src="https://github.com/Yael-Parra/img-for-public-readme/blob/main/idiomas_verde-removebg-preview.png" width="1500"/>
+<img src="https://private-user-images.githubusercontent.com/74014315/452019418-b40c7002-ed1f-4cf8-815c-b091c56aca99.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDk0NTMsIm5iZiI6MTc0OTE0OTE1MywicGF0aCI6Ii83NDAxNDMxNS80NTIwMTk0MTgtYjQwYzcwMDItZWQxZi00Y2Y4LTgxNWMtYjA5MWM1NmFjYTk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE4NDU1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhNWVjOTllN2E4YzlhYjAyZDc1ODZjZDVhODgwZWJhZDhmMmI1ZGEzNzcwZDVhNGRjZmJlY2MyNmVkNDkwOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.50vgzzgPRsMZp9iOrbufXbVIGT6UTSdzYL-Q6YoYXcQ" width="1500"/>
 </div>
 
 ---
