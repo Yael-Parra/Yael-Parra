@@ -1,10 +1,13 @@
 ## Hi there I'm Yael Parra 👋
 
+
 ###  Welcome to my GitHub profile! 
 
 <div style="text-align: justify;">
 I’m a <strong> Data Analyst </strong> with a background in business operations and customer success, now focused on solving real-world problems through data. I enjoy designing clean data pipelines, modeling structured datasets, and making complex information understandable through visualizations. Currently deepening my skills in <strong> AI </strong>  and always eager to collaborate on projects where data meets people, strategy, and impact.
 </div>
+
+---
 
 ### What I bring to the table:
 
@@ -18,12 +21,12 @@ I’m a <strong> Data Analyst </strong> with a background in business operations
 
 🤝 I bridge the gap between data, business, and people—with clarity, curiosity, and empathy.
 
-<br>
-</br>
+---
 
 ### 📌 Get in Touch  
 #### Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-parra/) or check out some of my projects here on GitHub!  
 
+---
 
 ### ⚙️ Technologies and Tools
 
@@ -51,6 +54,7 @@ I’m a <strong> Data Analyst </strong> with a background in business operations
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
 
+---
 
 ### 🗣️ Languages I speak
 
