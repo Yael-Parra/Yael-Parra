@@ -1,12 +1,14 @@
-<div align="center">
-<img src="https://private-user-images.githubusercontent.com/74014315/451967017-486de9c0-0f2a-4395-bf0f-ae1e785b195b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDAwNDUsIm5iZiI6MTc0OTEzOTc0NSwicGF0aCI6Ii83NDAxNDMxNS80NTE5NjcwMTctNDg2ZGU5YzAtMGYyYS00Mzk1LWJmMGYtYWUxZTc4NWIxOTViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE2MDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkYTIwZmJlZWIyOTdlMzZiYWMwNWRkZTg1NTc5OTAwN2FkYjFhNGY5NjU2MDEyOWRjZWEwMjBjNjg5NDVkZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-FnCZiddZiReylE2wDhiVuOEbHxYTQKDVr1k62MXi3U" width="1500"/>
-</div>
-
 <h1 align="center">
 Hello there 👋
 
 Welcome to my GitHub profile! 
 </h1>
+
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/74014315/451967017-486de9c0-0f2a-4395-bf0f-ae1e785b195b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDAwNDUsIm5iZiI6MTc0OTEzOTc0NSwicGF0aCI6Ii83NDAxNDMxNS80NTE5NjcwMTctNDg2ZGU5YzAtMGYyYS00Mzk1LWJmMGYtYWUxZTc4NWIxOTViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE2MDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkYTIwZmJlZWIyOTdlMzZiYWMwNWRkZTg1NTc5OTAwN2FkYjFhNGY5NjU2MDEyOWRjZWEwMjBjNjg5NDVkZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-FnCZiddZiReylE2wDhiVuOEbHxYTQKDVr1k62MXi3U" width="1500"/>
+</div>
+
+
 
 <p align="justify">
 I’m a <strong> Data Analyst </strong> with a background in business operations and customer success, now focused on solving real-world problems through data. I enjoy designing clean data pipelines, modeling structured datasets, and making complex information understandable through visualizations. Currently deepening my skills in <strong> AI </strong>  and always eager to collaborate on projects where data meets people, strategy, and impact.
