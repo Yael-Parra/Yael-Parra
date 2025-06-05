@@ -2,19 +2,30 @@
 
 ###  Welcome to my GitHub profile! 
 
-I'm a **Data Analyst** who loves turning numbers into stories. Currently, I'm deepening my skills in the exciting world of **Artificial Intelligence** as part of a **Bootcamp on AI**. 
+<div style="text-align: justify;">
+I’m a <strong> Data Analyst </strong> with a background in business operations and customer success, now focused on solving real-world problems through data. I enjoy designing clean data pipelines, modeling structured datasets, and making complex information understandable through visualizations. Currently deepening my skills in <strong> AI </strong>  and always eager to collaborate on projects where data meets people, strategy, and impact.
+</div>
 
-#### 💡 Fun Facts About Me  
-- I love solving real-world puzzles with data 🧠
-- Data governance and making sense of complex data landscapes excite me! 🔍
-- I thrive on structure, strategy, and turning raw information into meaningful insights 📊
-- I’m curious and practical, always keeping my feet on the ground while turning ideas into real, meaningful insights. My love for learning about new perspectives keeps me sharp and adaptable! 🌍
+### What I bring to the table:
+
+🔍 I clean, model, and analyze data to generate insights that people can actually act on.
+
+🧩 I connect the dots between technical complexity and business needs—making analytics feel useful, not abstract.
+
+🧠 I learn tools quickly and adapt fast to new environments or challenges.
+
+🗣️ I’m used to speaking with people from different departments, understanding their needs, and building solutions that work for everyone.
+
+🤝 I bridge the gap between data, business, and people—with clarity, curiosity, and empathy.
+
+<br>
+</br>
+
+### 📌 Get in Touch  
+#### Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-parra/) or check out some of my projects here on GitHub!  
 
 
-#### 📌 Get in Touch  
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-parra/) or check out some of my projects here on GitHub!  
-
-#### ⚙️ Technologies and Tools
+### ⚙️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -41,6 +52,6 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yael-par
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
 
 
-#### 🗣️ Languages I speak
+### 🗣️ Languages I speak
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="Reino Unido" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" alt="Francia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="España" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png" alt="México" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="Alemania" width="30" height="20">
