@@ -77,7 +77,7 @@ But enough about me! This is how I might help you:
 </h2>
 
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/74014315/452006468-81c479a7-b2ec-4dba-8f23-ce29b72bd1b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDcxNjksIm5iZiI6MTc0OTE0Njg2OSwicGF0aCI6Ii83NDAxNDMxNS80NTIwMDY0NjgtODFjNDc5YTctYjJlYy00ZGJhLThmMjMtY2UyOWI3MmJkMWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE4MDc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhMWEzYzk5MjVhODY0ZjlmMDQwMmRlN2I3YWViMzQxMTIzMjZkNDcwYzFlYmExYmU2YzU2YWYzYTZlZmEyMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Uah9OZI8-GpwySIrMsfZ0-QDIeact1cqJhjLCpaqsb4" width="1500"/>
+<img src="https://gist.github.com/Yael-Parra/c7d2319fc6008c2e2659f13c2c308a71?permalink_comment_id=5607043#gistcomment-5607043" width="1500"/>
 </div>
 
 ---
