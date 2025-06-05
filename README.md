@@ -35,16 +35,17 @@ But enough about me! This is how I might help you:
   
 - Plus, I speak fluently Spanish, French, English and Italian and I also know a little bit of Portuguese and recently started to study German (I do love languages...)
 
----
-<br>
-</br>
 
-<h2 align="center" > 
-👋 Wanna chat?
-</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yael-parra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-I am open to collaborations, data challenges, or just a good conversation about how to make better decisions through tech and empathy.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yael-parra/) or [Github](https://github.com/Yael-Parra)
 
 ---
  
@@ -55,7 +56,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/yael-parra/) or [Githu
 ⚙️ Tech Stack Overview
 </h2>
 
-<p align="center" >
+ <div align="center" >
 
 | Data & Backend | Databases | BI & Visualization | DevOps & Tools | Business Platforms | Methodologies |
 |------------------|--------------|------------------------|-------------------|------------------------|-------------------|
@@ -67,19 +68,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/yael-parra/) or [Githu
 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | | | | | |
 | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | | | | | |
 
-</p>
+</div>
+
 
 
 <h2 align="center" > 
 🗣️ Languages I speak
 </h2>
 
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="Reino Unido" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" alt="Francia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="España" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png" alt="México" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" alt="Brasil" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italia" width="30" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="Alemania" width="30" height="20">
-</p>
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/74014315/452006468-81c479a7-b2ec-4dba-8f23-ce29b72bd1b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxNDcxNjksIm5iZiI6MTc0OTE0Njg2OSwicGF0aCI6Ii83NDAxNDMxNS80NTIwMDY0NjgtODFjNDc5YTctYjJlYy00ZGJhLThmMjMtY2UyOWI3MmJkMWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDE4MDc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJhMWEzYzk5MjVhODY0ZjlmMDQwMmRlN2I3YWViMzQxMTIzMjZkNDcwYzFlYmExYmU2YzU2YWYzYTZlZmEyMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Uah9OZI8-GpwySIrMsfZ0-QDIeact1cqJhjLCpaqsb4" width="1500"/>
+</div>
