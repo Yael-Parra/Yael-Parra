@@ -14,7 +14,7 @@ I’m a <strong> Data Analyst </strong> with a background in business operations
 <h2> 
 What I bring to the table:
 </h2>
-<ul>
+
   
 🔍 I clean, model, and analyze data to generate insights that people can actually act on.
 
@@ -25,10 +25,8 @@ What I bring to the table:
 🗣️ I’m used to speaking with people from different departments, understanding their needs, and building solutions that work for everyone.
 
 🤝 I bridge the gap between data, business, and people—with clarity, curiosity, and empathy.
-</ul>
 
-<hr>
-
+---
 
 <h2> 
 👋 Let’s connect
@@ -37,7 +35,7 @@ What I bring to the table:
 Open to collaborations, data challenges, or just a good conversation about how to make better decisions through tech and empathy.  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/yael-parra/) or [Github](https://github.com/Yael-Parra)
 
-
+---
 
 <h2> 
 ⚙️ Technologies and Tools
