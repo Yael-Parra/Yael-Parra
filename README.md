@@ -9,27 +9,27 @@ Welcome to my GitHub profile!
 </div>
 
 
-
+<h3> 
 <p align="justify">
 I’m a <strong> Data Analyst </strong> with a background in business operations and customer success, now focused on solving real-world problems through data. I enjoy designing clean data pipelines, modeling structured datasets, and making complex information understandable through visualizations. Currently deepening my skills in <strong> AI </strong>  and always eager to collaborate on projects where data meets people, strategy, and impact.
 </p>
+</h3> 
 
----
 
-<h2> 
+<h2 align="center"> 
 What I bring to the table:
 </h2>
 
   
-🔍 I clean, model, and analyze data to generate insights that people can actually act on.
+- I clean, model, and analyze data to generate insights that people can actually act on.
 
-🧩 I connect the dots between technical complexity and business needs—making analytics feel useful, not abstract.
+- I connect the dots between technical complexity and business needs—making analytics feel useful, not abstract.
 
-🧠 I learn tools quickly and adapt fast to new environments or challenges.
+- I learn tools quickly and adapt fast to new environments or challenges.
 
-🗣️ I’m used to speaking with people from different departments, understanding their needs, and building solutions that work for everyone.
+- I’m used to speaking with people from different departments, understanding their needs, and building solutions that work for everyone.
 
-🤝 I bridge the gap between data, business, and people—with clarity, curiosity, and empathy.
+- I bridge the gap between data, business, and people—with clarity, curiosity, and empathy.
 
 ---
 
