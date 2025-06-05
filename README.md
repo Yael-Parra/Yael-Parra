@@ -86,4 +86,13 @@ But enough about me! This is how I might help you:
 📌 Highlighted Projects
 </h2>
 
-I am still working on this but you can find them below ;) 
+<p align="center">
+  <a href="https://github.com/mr-melenas/FalseBait" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Phishing Detection Project"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Bootcamp-IA-P4/Multiclass_Clasification" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Student%20Fail%20Prediction-%23F4B400?style=for-the-badge&logoColor=white" alt="Student Fail Prediction"/>
+  </a>
+</p>
+
