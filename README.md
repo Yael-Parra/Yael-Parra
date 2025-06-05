@@ -70,7 +70,7 @@ But enough about me! This is how I might help you:
 
 </div>
 
-
+---
 
 <h2 align="center" > 
 🗣️ Languages I speak
