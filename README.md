@@ -94,5 +94,8 @@ But enough about me! This is how I might help you:
   <a href="https://github.com/Bootcamp-IA-P4/Multiclass_Clasification" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Student%20Fail%20Prediction-%23F4B400?style=for-the-badge&logoColor=white" alt="Student Fail Prediction"/>
   </a>
+  <a href="https://github.com/Yael-Parra/sentiment-analyzer-inc" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analizer-%23F4B400?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analizer"/>
+  </a>
 </p>
 
