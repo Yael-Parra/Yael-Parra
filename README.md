@@ -35,7 +35,7 @@ This is how I could help you:
 
 - I bridge the gap between data, business, and people with clarity, curiosity, and empathy.
   
-- Plus, I speak fluently Spanish, French, English and Italian and I also know a little bit of Portuguese and recently started to study German (I do love languages...)
+- Plus, I speak fluently Spanish, French, English and Italian and I also know a basic Portuguese and recently started to study German (I do love languages...)
 
 
 <p align="center">
