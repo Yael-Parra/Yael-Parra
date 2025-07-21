@@ -24,6 +24,7 @@ This is how I could help you:
 <h2 align="center"> 
     🩷
 </h2>
+
 - I clean, model, and analyze data to generate insights that people can actually act on.
 
 - I connect the dots between technical complexity and business needs—making analytics feel useful, not abstract.
