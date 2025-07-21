@@ -22,7 +22,7 @@ I’m a <strong> Data Analyst </strong> with a background in business operations
 This is how I could help you:
 </h2>
 <h2 align="center"> 
-    🩷
+    ⭐
 </h2>
 
 - I clean, model, and analyze data to generate insights that people can actually act on.
