@@ -19,7 +19,7 @@ I’m a <strong> Data Analyst </strong> with a background in business operations
 </br>
 
 <h2 align="center"> 
-Enough about me! This is how I might help you:
+This is how I could help you:
 </h2>
 <h2 align="center"> 
     🩷
