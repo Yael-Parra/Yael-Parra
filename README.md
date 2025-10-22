@@ -99,5 +99,8 @@ This is how I could help you:
   <a href="https://github.com/Yael-Parra/sentiment-analyzer-inc" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analizer-%23F4B400?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analizer"/>
   </a>
+    <a href="https://github.com/Yael-Parra/OrientaTech" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-powered Tech Career Guidance"/>
+  </a>
 </p>
 
