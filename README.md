@@ -98,19 +98,22 @@ This is how I could help you:
   <a href="https://github.com/Bootcamp-IA-P4/Multiclass_Clasification" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Student%20Fail%20Prediction-%23F4B400?style=for-the-badge&logoColor=white" alt="Student Fail Prediction"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Yael-Parra/sentiment-analyzer-inc" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analizer-%23F4B400?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analizer"/>
+    <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analyzer-%23F4B400?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analyzer"/>
   </a>
-    <a href="https://github.com/Yael-Parra/OrientaTech" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-powered Tech Career Guidance"/>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra/OrientaTech" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/AI--powered%20Tech%20Career%20Guidance-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-powered Tech Career Guidance"/>
   </a>
-    </a>
-    <a href="https://github.com/Yael-Parra/Finance_LLM_Project" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-driven Financial Analysis Platform"/>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra/Finance_LLM_Project" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/AI--driven%20Financial%20Analysis%20Platform-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-driven Financial Analysis Platform"/>
   </a>
-  </a>
-    <a href="https://github.com/Yael-Parra/Airbnb-Analysis" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Visualization with Python and Power BI"/>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra/Airbnb-Analysis" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visualization%20with%20Python%20and%20Power%20BI-%23F4B400?style=for-the-badge&logoColor=white" alt="Visualization with Python and Power BI"/>
   </a>
 </p>
+
 
