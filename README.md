@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 </h1>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Yael-Parra/Yael-Parra/main/img/Para_Git_banner_con_QR-removebg-preview.png" width="1500"/>
+<img src="https://raw.githubusercontent.com/Yael-Parra/Yael-Parra/main/img/Para_Git__banner_con_QR-removebg-preview.png" width="1500"/>
 </div>
 
 
