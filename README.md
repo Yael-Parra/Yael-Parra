@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 </h1>
 
 <div align="center">
-<img src="https://github.com/Yael-Parra/Yael-Parra/blob/a3369d7f6d4e8ffcf380e9105ee43ca335685ad8/img/Para_Git_banner_con_QR-removebg-preview.png" width="1500"/>
+<img src="https://raw.githubusercontent.com/Yael-Parra/Yael-Parra/main/img/Para_Git_banner_con_QR-removebg-preview.png" width="1500"/>
 </div>
 
 
@@ -86,7 +86,7 @@ This is how I could help you:
 </h2>
 
 <div align="center">
-<img src="https://github.com/Yael-Parra/Yael-Parra/blob/fba84c50816ef0925d3691e5d69696d35ba7b5de/img/Para_Git_idiomas-removebg-preview.png" width="1500"/>
+<img src="https://raw.githubusercontent.com/Yael-Parra/Yael-Parra/main/img/Para_Git_idiomas-removebg-preview.png" width="1500"/>
 </div>
 
 ---
