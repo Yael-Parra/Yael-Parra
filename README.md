@@ -91,34 +91,41 @@ This is how I could help you:
 
 ---
 
-<h2 align="center" > 
+<h2 align="center">
 📌 Highlighted Projects
 </h2>
 
 <p align="center">
+  <a href="https://github.com/Yael-Parra/GEO-Platform" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GEO%20AI%20Visibility%20Platform-%23BE5A3C?style=for-the-badge&logoColor=white" alt="GEO AI Visibility Platform"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra/gym-management-platform" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gym%20Management%20Platform-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Gym Management Platform"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yael-Parra/obra-a-la-vista/tree/main" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Public%20Works%20Tender%20Tracker-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Obra a la Vista, Public Works Tender Tracker"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/mr-melenas/FalseBait" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23F4B400?style=for-the-badge&logoColor=white" alt="Phishing Detection Project"/>
+    <img src="https://img.shields.io/badge/Phishing%20Detection%20Project-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Phishing Detection Project"/>
   </a>
   &nbsp;
   <a href="https://github.com/Bootcamp-IA-P4/Multiclass_Clasification" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Student%20Fail%20Prediction-%23F4B400?style=for-the-badge&logoColor=white" alt="Student Fail Prediction"/>
+    <img src="https://img.shields.io/badge/Student%20Fail%20Prediction-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Student Fail Prediction"/>
   </a>
   &nbsp;
   <a href="https://github.com/Yael-Parra/sentiment-analyzer-inc" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analyzer-%23F4B400?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analyzer"/>
+    <img src="https://img.shields.io/badge/Sentiment%20and%20Toxicity%20Analyzer-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Sentiment and Toxicity Comments Analyzer"/>
   </a>
   &nbsp;
   <a href="https://github.com/Yael-Parra/OrientaTech" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/AI--powered%20Tech%20Career%20Guidance-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-powered Tech Career Guidance"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yael-Parra/Finance_LLM_Project" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/AI--driven%20Financial%20Analysis%20Platform-%23F4B400?style=for-the-badge&logoColor=white" alt="AI-driven Financial Analysis Platform"/>
+    <img src="https://img.shields.io/badge/AI--powered%20Tech%20Career%20Guidance-%23BE5A3C?style=for-the-badge&logoColor=white" alt="AI-powered Tech Career Guidance"/>
   </a>
   &nbsp;
   <a href="https://github.com/Yael-Parra/Airbnb-Analysis" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visualization%20with%20Python%20and%20Power%20BI-%23F4B400?style=for-the-badge&logoColor=white" alt="Visualization with Python and Power BI"/>
+    <img src="https://img.shields.io/badge/Visualization%20with%20Python%20and%20Power%20BI-%23BE5A3C?style=for-the-badge&logoColor=white" alt="Visualization with Python and Power BI"/>
   </a>
 </p>
-
 
